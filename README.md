@@ -40,7 +40,7 @@ latex
 \frac{a}{b} + \sqrt{x}
 ```
 ## 📈 Training Configuration
-_____
+
 Batch size: 2
 
 Accumulation steps: 4
@@ -52,15 +52,15 @@ Learning rate: 2e-4
 Optimizer: AdamW (8-bit)
 
 ## 💡 Future Scope
-_____
+
 Handle handwritten math expressions
 
 Deploy as a web service for real-time inference
 
 Add speech-to-LaTeX capability
 
-##✨ Acknowledgements
-______
+## ✨ Acknowledgements
+
 Thanks to Unsloth, TRL, and HuggingFace Datasets for enabling efficient multimodal fine-tuning.
 
 yaml
