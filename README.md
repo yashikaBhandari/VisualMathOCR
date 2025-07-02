@@ -68,17 +68,6 @@ yaml
 
 ---
 
-## 💼 Will Recruiters See the Code?
 
-✅ **Yes**, **GitHub repositories** are often reviewed by recruiters and hiring managers, especially for:
-- Internships
-- Research positions
-- AI/Machine Learning roles
 
-### Tips:
-- Include a clear `README.md` (like above)
-- Push your `train.py` or `finetune_latex_ocr.py`
-- Include a few `sample_outputs/` images with generated LaTeX
-
----
 
